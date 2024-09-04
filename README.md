@@ -16,7 +16,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Flutter](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogosandtypes.com%2Falphabet%2Fletter-f%2Fflutter%2F&psig=AOvVaw32MWK4Gp6E0iZ6QkB1pg8H&ust=1725529479656000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDzprOAqYgDFQAAAAAdAAAAABAE)
+https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
+
 
 ## 📊 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)

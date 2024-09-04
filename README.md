@@ -1,4 +1,4 @@
-# Hi there, I'm [venkat chandran] 👋
+# Hi there, I'm [venkat chandran. mobile application developer and website developer] 👋
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on ...
@@ -16,23 +16,23 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Flutter](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogosandtypes.com%2Falphabet%2Fletter-f%2Fflutter%2F&psig=AOvVaw32MWK4Gp6E0iZ6QkB1pg8H&ust=1725529479656000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDzprOAqYgDFQAAAAAdAAAAABAE)
 
 ## 📊 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🛠️ Projects
-### [Project 1](https://github.com/yourusername/project1)
+### [Project 1]([https://github.com/yourusername/project1](https://github.com/chennai07/assetindia.git))
 - Description: ...
 - Tech Stack: ...
 
-### [Project 2](https://github.com/yourusername/project2)
+### [Project 2]([https://github.com/yourusername/project2](https://github.com/chennai07/weather.git))
 - Description: ...
 - Tech Stack: ...
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://www.linkedin.com/in/venkatesan-chandran-8571ab24a/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Google-Chrome&logoColor=white)](https://yourportfolio.com)
 
 ## 📅 Latest Blog Posts

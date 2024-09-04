@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamad-anwar" alt="hamad-anwar" /></a> </p>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently Work **flutter**
 
 - 💬 Ask me about **flutter, dart**
 
